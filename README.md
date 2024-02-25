@@ -1,4 +1,4 @@
-# Project Title
+# React with Strapi
 
 This project is a React application that fetches data from a **Strapi** API and displays it in a table format using Material-UI components. The data retrieved from the Strapi API consists of customer information such as first name, last name, and phone number. The application dynamically populates the table rows with this data, providing a user-friendly interface for viewing and managing customer details. 
 
